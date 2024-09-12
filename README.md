@@ -201,7 +201,7 @@ Imagens utilizadas como prompts de entrada:
 
 Animação gerada:
 
-[![Animation](./docs/imgs/Podcasting.jpeg)](./out/Teryn.mp4)
+[![Animation](./docs/imgs/Podcasting.jpeg)](https://www.youtube.com/shorts/edkyTiD-tN0)
 
 ### 🎙️ Eleven Labs
 
@@ -211,4 +211,4 @@ A voz de Teryn (Text-to-Speech), o mago, e alguns efeitos, estão disponíveis e
 
 Com edição no **Microsft Climpchamp**, foi gerado uma curta demonstração:
 
-[![Podcast](./docs/imgs/Podcasting.jpeg)](./out/Pó%20de%20Bits%20‐%20Feito%20com%20o%20Clipchamp.mp4)
+[![Podcast](./docs/imgs/Podcasting.jpeg)](https://youtu.be/ZFQ8pr_YQI0)
